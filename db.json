@@ -1,14 +1,33 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "context.userList":[
+      {
+         "username":"trungnguyen",
+         "fullName":"Trung Nguyen",
+         "nickname":[
+            "aaa",
+            "xxx",
+            "yyy"
+         ]
+      },
+      {
+         "username":"dungvo",
+         "fullName":"Dung Vo",
+         "nickname":"bbb"
+      },
+      {
+         "username":"thonghuynh",
+         "fullName":"Thong Huynh",
+         "nickname":"ccc"
+      },
+      {
+         "username":"trungdoan",
+         "fullName":"Trung Doan",
+         "nickname":"ddd"
+      },
+      {
+         "username":"nhatduong",
+         "fullName":"Nhat Duong",
+         "nickname":"eee"
+      }
+   ]
 }
