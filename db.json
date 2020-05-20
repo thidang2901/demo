@@ -1,31 +1,30 @@
-[
-   {
-      "username":"trungnguyen",
-      "fullName":"Trung Nguyen",
-      "nickname":[
-         "aaa",
-         "xxx",
-         "yyy"
-      ]
-   },
-   {
-      "username":"dungvo",
-      "fullName":"Dung Vo",
-      "nickname":"bbb"
-   },
-   {
-      "username":"thonghuynh",
-      "fullName":"Thong Huynh",
-      "nickname":"ccc"
-   },
-   {
-      "username":"trungdoan",
-      "fullName":"Trung Doan",
-      "nickname":"ddd"
-   },
-   {
-      "username":"nhatduong",
-      "fullName":"Nhat Duong",
-      "nickname":"eee"
-   }
-]
+{
+	"context.userList": 
+            [
+              {
+                "username": "trungnguyen",
+                "fullName": "Trung Nguyen",
+                "nickname": ["aaa","xxx","yyy"]
+              },
+              {
+                "username": "dungvo",
+                "fullName": "Dung Vo",
+                "nickname": "bbb"
+              },
+              {
+                "username": "thonghuynh",
+                "fullName": "Thong Huynh",
+                "nickname": "ccc"
+              },
+              {
+                "username": "trungdoan",
+                "fullName": "Trung Doan",
+                "nickname": "ddd"
+              },
+              {
+                "username": "nhatduong",
+                "fullName": "Nhat Duong",
+                "nickname": "eee"
+              }
+            ]
+}
