@@ -40,6 +40,12 @@
       }
    ],
    "profile": {
-    "name": "typicode"
-  }
+         "username":"athenkabot",
+         "fullName":"Athenka Bot",
+         "nickname":[
+            "athenka",
+            "kayla",
+            "bot"
+         ]
+      }
 }
