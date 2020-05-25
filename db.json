@@ -1,51 +1,51 @@
 {
-   "userList":[
-      {
-         "username":"athenkabot",
-         "fullName":"Athenka Bot",
-         "nickname":[
-            "athenka",
-            "kayla",
-            "bot"
-         ]
-      },
-      {
-         "username":"trungnguyen",
-         "fullName":"Trung Nguyen",
-         "nickname":[
-            "aaa",
-            "xxx",
-            "yyy"
-         ]
-      },
-      {
-         "username":"dungvo",
-         "fullName":"Dung Vo",
-         "nickname":"bbb"
-      },
-      {
-         "username":"thonghuynh",
-         "fullName":"Thong Huynh",
-         "nickname":"ccc"
-      },
-      {
-         "username":"trungdoan",
-         "fullName":"Trung Doan",
-         "nickname":"ddd"
-      },
-      {
-         "username":"nhatduong",
-         "fullName":"Nhat Duong",
-         "nickname":"eee"
-      }
-   ],
-   "profile": {
-         "username":"athenkabot",
-         "fullName":"Athenka Bot",
-         "nickname":[
-            "athenka",
-            "kayla",
-            "bot"
-         ]
-      }
+  "userList": [
+    {
+      "username": "athenkabot",
+      "fullName": "Athenka Bot",
+      "nickname": [
+        "athenka",
+        "kayla",
+        "bot"
+      ]
+    },
+    {
+      "username": "trungnguyen",
+      "fullName": "Trung Nguyen",
+      "nickname": [
+        "aaa",
+        "xxx",
+        "yyy"
+      ]
+    },
+    {
+      "username": "dungvo",
+      "fullName": "Dung Vo",
+      "nickname": "bbb"
+    },
+    {
+      "username": "thonghuynh",
+      "fullName": "Thong Huynh",
+      "nickname": "ccc"
+    },
+    {
+      "username": "trungdoan",
+      "fullName": "Trung Doan",
+      "nickname": "ddd"
+    },
+    {
+      "username": "nhatduong",
+      "fullName": "Nhat Duong",
+      "nickname": "eee"
+    }
+  ],
+  "profile": {
+    "username": "athenkabot",
+    "fullName": "Athenka Bot",
+    "nickname": [
+      "athenka",
+      "kayla",
+      "bot"
+    ]
+  }
 }
