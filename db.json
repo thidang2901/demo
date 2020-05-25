@@ -1,15 +1,6 @@
 {
   "userList": [
     {
-      "username": "athenkabot",
-      "fullName": "Athenka Bot",
-      "nickname": [
-        "athenka",
-        "kayla",
-        "bot"
-      ]
-    },
-    {
       "username": "trungnguyen",
       "fullName": "Trung Nguyen",
       "nickname": [
@@ -40,12 +31,11 @@
     }
   ],
   "profile": {
-    "username": "athenkabot",
-    "fullName": "Athenka Bot",
+    "username": "thidang ",
+    "fullName": "Thi Dang",
     "nickname": [
-      "athenka",
-      "kayla",
-      "bot"
+      "ttt",
+      "ddd"
     ]
   }
 }
