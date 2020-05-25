@@ -1,6 +1,15 @@
 {
    "userList":[
       {
+         "username":"athenkabot",
+         "fullName":"Athenka Bot",
+         "nickname":[
+            "athenka",
+            "kayla",
+            "bot"
+         ]
+      },
+      {
          "username":"trungnguyen",
          "fullName":"Trung Nguyen",
          "nickname":[
